@@ -1,0 +1,8 @@
+3A
+I get all the data for ll "Folk"
+3B
+https://api.statbank.dk/v1/Paramater
+4
+ttps://api.statbank.dk/v1/data/FOLK1A/CSV?valuePresentation=CodeAndValue&delimiter=Semicolon&Alder=IALT&OMR%C3%85DE=000
+ALDER;OMRÅDE;TID;INDHOLD
+IALT I alt;000 Hele landet;2020K1 2020K1;5822763
